@@ -1,6 +1,6 @@
 # NTIRE 2023: 360° Super-Resolution Challenge
 
-<img title="" src="https://docimg8.docs.qq.com/image/AgAABkjS6lpdMk3C3fZE0IOKS6Cyff1Z.png?imageMogr2/thumbnail/1600x%3E/ignore-error/1" alt="" data-align="center">
+<img title="" src="/imgs/mark.png" alt="" data-align="center">
 
 ## News and Updates
 
@@ -24,7 +24,7 @@ During the second phase (testing period), the testing set containing only LR 360
 
 ### ● Dataset - Flickr360
 
-![](https://docimg4.docs.qq.com/image/AgAABkjS6lqqWUo0sZZG_p_Y-jrXFUSH.png?w=4158&h=961)
+![](/imgs/flickr360.png)
 
 To promote the development of this field, we construct a new 360° image dataset, which contains about 3150 ERP images with a resolution larger than 5k. Specifically, 3100 images are collected from Flickr, and the other 50 images are captured by Insta360° cameras. The images from Flickr are under either Creative Commons BY 2.0, Creative Commons BY-NC 2.0, Public Domain Mark 1.0, Public Domain CC0 1.0, or U.S. Government Works license. All of these licenses allow free use, redistribution, and adaptation for non-commercial purposes. The image contents vary both indoors and outdoors. We first downsample the original images into 2k resolution (2048 x 1024), serving as HR images. These HR images are further downsampled into LR images. The data partition is shown in the following table.
 
@@ -58,7 +58,7 @@ We evaluate the super-resolved 360° images by comparing them to the ground trut
 
 ### ● Dataset - ODV360
 
-![](https://docimg8.docs.qq.com/image/AgAABkjS6lpIxSrajbRFMLCeuZAX-kLQ.png?w=2109&h=489)
+![](/imgs/odv360.png)
 
 To rectify the lack of high-quality video datasets in the community of omnidirectional video super-resolution, we create a new high-resolution (4K-8K) 360° video dataset, including two parts:
 
