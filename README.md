@@ -10,6 +10,7 @@
 ---
 
 👉 [Track 1：360° Omnidirectional Image Super-Resolution (X4)](#track-1360-omnidirectional-image-super-resolution-x4)
+
 👉 [Track 2：360° Omnidirectional Video Super-Resolution (X4)](#track-2360-omnidirectional-video-super-resolution-x4)
 
 
@@ -126,6 +127,6 @@ We provide some useful scripts:
 
 3.  We do not restrict the model size and running time. Please provide them in the final submission.
 
-##### Reference
+##### Acknowledgement
 
-- [Stereo SR](https://github.com/The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR/tree/NTIRE2023)
+- We use the GitHub README.md template from [Stereo SR competition](https://github.com/The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR/tree/NTIRE2022)
