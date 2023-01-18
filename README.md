@@ -1,8 +1,21 @@
 # NTIRE 2023: 360° Super-Resolution Challenge
 
 <img title="" src="/imgs/mark.png" alt="" data-align="center">
+<p align="center">
+  <img src="imgs/logo.png" height=180>
+</p>
 
-## News and Updates
+360° Super-Resolution Challenge is held as a part of the [NTIRE workshop](https://data.vision.ee.ethz.ch/cvl/ntire23/) in conjunction with CVPR 2023.
+
+---
+
+👉 [Track 1：360° Omnidirectional Image Super-Resolution (X4)](#track-1360-omnidirectional-image-super-resolution-x4)
+👉 [Track 2：360° Omnidirectional Video Super-Resolution (X4)](#track-2360-omnidirectional-video-super-resolution-x4)
+
+
+## 🚩 News and Updates
+
+- ✅ 2023-01-18. Training and validation sets are released.
 
 ## Introduction
 
@@ -16,9 +29,9 @@ In this challenge, we aim to establish high-quality benchmarks for 360° image a
 
 This challenge aims to reconstruct high-resolution (HR) 360° images/videos from degraded low-resolution (LR) counterparts.
 
-Only the training and validation sets will be released during the first phase (model construction period), and the HR and LR 360° image or video pairs are available for different tracks (360° image SR challenge and 360° video SR challenge). The participants can design their methods by considering the characteristics of 360° images/videos. Then these models can be trained on the training set and evaluated on the validation set. Note that the participants can use additional data, and the model size is not restricted.
+Only the training and validation sets will be released **during the first phase (model construction period)**, and the HR and LR 360° image or video pairs are available for different tracks (360° image SR challenge and 360° video SR challenge). The participants can design their methods by considering the characteristics of 360° images/videos. Then these models can be trained on the training set and evaluated on the validation set. Note that the participants can use additional data, and the model size is not restricted.
 
-During the second phase (testing period), the testing set containing only LR 360° images/videos will be released. The participants can super-resolve the testing LR images/videos with their trained models. The super-resolved results should be submitted by the participants and then evaluated by the organizers with the quantitative metrics.
+**During the second phase (testing period)**, the testing set containing only LR 360° images/videos will be released. The participants can super-resolve the testing LR images/videos with their trained models. The super-resolved results should be submitted by the participants and then evaluated by the organizers with the quantitative metrics.
 
 ## Track 1：360° Omnidirectional Image Super-Resolution (X4)
 
@@ -36,9 +49,9 @@ To promote the development of this field, we construct a new 360° image dataset
 
 ### ● Download
 
-Google Drive：
+Google Drive：<https://drive.google.com/drive/folders/1lDIxTahDXQ5w5x_UZySX2NOes_ZoNztN>
 
-腾讯微云：
+腾讯微云：<https://share.weiyun.com/6p2fsaxO>
 
 ### ● Settings
 
@@ -48,11 +61,7 @@ Unlike previous settings that directly apply bicubic downsampling to generate lo
 
 ### ● Metrics
 
-
-
 We evaluate the super-resolved 360° images by comparing them to the ground truth HR ERP images. To measure the fidelity, we adopt the widely used Weighted-to-Spherically-uniform Peak Signal to Noise Ratio (WS-PSNR) as the quantitative evaluation metric.
-
-
 
 ## Track 2：360° Omnidirectional Video Super-Resolution (X4)
 
@@ -62,26 +71,26 @@ We evaluate the super-resolved 360° images by comparing them to the ground trut
 
 To rectify the lack of high-quality video datasets in the community of omnidirectional video super-resolution, we create a new high-resolution (4K-8K) 360° video dataset, including two parts:
 
-● 90 videos collected from YouTube and public 360° video dataset
+- 90 videos collected from YouTube and public 360° video dataset
 
-These videos are carefully selected and have high quality to be used for restoration. All videos have the license of Creative Commons Attribution license (reuse allowed), and our dataset is used only for academic and research proposes
+    These videos are carefully selected and have high quality to be used for restoration. All videos have the license of Creative Commons Attribution license (reuse allowed), and our dataset is used only for academic and research proposes
 
-● 160 videos collected by ourselves with Insta360 cameras
+- 160 videos collected by ourselves with Insta360 cameras
 
-The cameras we use include Insta 360 X2 and Insta 360 ONE RS. They can capture high-resolution (5.7K) omnidirectional videos.
+    The cameras we use include Insta 360 X2 and Insta 360 ONE RS. They can capture high-resolution (5.7K) omnidirectional videos.
 
 These collected omnidirectional videos cover a large range of diversity, and the video contents vary indoors and outdoors. To facilitate the use of these videos for research, we downsample the original videos into 2K resolution (2160x1080) by OpenCV. The number of frames per video is fixed at about 100. We randomly divide these videos into training, validation, and testing sets, as shown in the following table.
 
 |         | Training         | Validation        | Testing           | All   |
 | ------- | ---------------- | ----------------- | ----------------- | ----- |
-| Number  | 210              | 20                | 20                | 250   |
+| Number (clips) | 210            | 20               | 20                | 250   |
 | Storage | GT(59G)+LR(4.9G) | GT(5.3G)+LR(446M) | GT(5.7G)+LR(485M) | 75.8G |
 
 ### ● Download
 
-Google Drive：
+Google Drive：<https://drive.google.com/drive/folders/1lDIxTahDXQ5w5x_UZySX2NOes_ZoNztN>
 
-腾讯微云：
+腾讯微云：<https://share.weiyun.com/8zd7X0TZ>
 
 ### ● Settings
 
@@ -95,7 +104,19 @@ We evaluate the super-resolved 360° video frames by comparing them to the groun
 
 ## Submission
 
-We use CodaLab for online submission in the development phase. Here, we provide an example (TBD) to help participants to format their submissions. In the test phase, the final results and the source codes (both training and test) need to be submitted. Please refer to our online website for details of the submission rules.
+We use CodaLab for online submission in the development phase. Here, we provide an example (TBD) to help participants to format their submissions. In the test phase, the final results and the source codes (both training and test) need to be submitted. Please refer to our [online website](https://github.com/360SR/360SR-Challenge) for details of the submission rules.
+
+## Important Dates
+
+TBD
+
+## Scripts
+
+We provide some useful scripts:
+
+- WS-PSNR evaluation
+- sub-image cropping
+- dataset loader
 
 ## FAQ
 
@@ -105,12 +126,6 @@ We use CodaLab for online submission in the development phase. Here, we provide 
 
 3.  We do not restrict the model size and running time. Please provide them in the final submission.
 
-## Reference
+##### Reference
 
-https://github.com/The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR/tree/NTIRE2023
-
-[CodaLab - Competition](https://codalab.lisn.upsaclay.fr/competitions/1598)
-
-[CodaLab - Competition](https://codalab.lisn.upsaclay.fr/competitions/1568#learn_the_details)
-
-
+- [Stereo SR](https://github.com/The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR/tree/NTIRE2023)
