@@ -9,8 +9,8 @@ import os.path as osp
 
 def cal_ws_metrics(src_gt, src_sr, metrics=None, print_avg=True, print_details=True):
     '''
-    :param src_gt (str): Source root of gt images
-    :param src_sr (str): Source root of sr images
+    :param src_gt (str): Source path of gt images
+    :param src_sr (str): Source path of sr images
     :param metrics (list): Select metrics within wspsnr and wsssim
     :param print_avg (bool): Whether to print average values after calculation
     :param print_details (bool): Whether to print detail values during calculation
