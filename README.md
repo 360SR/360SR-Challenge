@@ -1,11 +1,17 @@
 # NTIRE 2023: 360° Super-Resolution Challenge
 
-<img title="" src="/imgs/mark.png" alt="" data-align="center">
+<!-- <img title="" src="/imgs/mark.png" alt="" data-align="center"> -->
 <p align="center">
   <img src="imgs/logo.png" height=180>
 </p>
 
 360° Super-Resolution Challenge is held as a part of the [NTIRE workshop](https://data.vision.ee.ethz.ch/cvl/ntire23/) in conjunction with CVPR 2023.
+
+<div align="center">
+
+📕[**Datasets**](https://360sr.github.io/#ODV360)  **|** 📝[Evaluation Script](https://github.com/360SR/360SR-Challenge/blob/main/scripts/cal_ws_metrics.py)
+</div>
+
 
 ---
 
