@@ -9,7 +9,7 @@
 
 <div align="center">
 
-📕[**Datasets**](https://360sr.github.io/#ODV360)  **|** 📝[Evaluation Script](https://github.com/360SR/360SR-Challenge/blob/main/scripts/cal_ws_metrics.py)
+📕[**Datasets**](https://360sr.github.io)  **|** 📝[Evaluation Script](https://github.com/360SR/360SR-Challenge/blob/main/scripts/cal_ws_metrics.py)
 </div>
 
 
