@@ -9,7 +9,7 @@
 
 <div align="center">
 
-📕[**Datasets**](https://360sr.github.io)  **|** 📝[Evaluation Script](https://github.com/360SR/360SR-Challenge/blob/main/scripts/cal_ws_metrics.py)
+📕[**Datasets**](https://360sr.github.io)  **|** 📝[Evaluation Script](https://github.com/360SR/360SR-Challenge/blob/main/scripts/cal_ws_metrics.py) **|** 🧑‍🤝‍🧑[比赛交流微信群](#-WeChat-Group)
 </div>
 
 
@@ -133,6 +133,14 @@ We provide some useful scripts:
 
 3.  We do not restrict the model size and running time. Please provide them in the final submission.
 
-##### Acknowledgement
+#### Acknowledgement
 
-- We use the GitHub README.md template from [Stereo SR competition](https://github.com/The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR/tree/NTIRE2022)
+We use the GitHub README.md template from [Stereo SR competition](https://github.com/The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR/tree/NTIRE2022)
+
+## 📧 WeChat Group
+
+- **微信群**: NTIRE23-360超分比赛交流群 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/122718254/216253871-af36638f-f222-45e6-94eb-b3271d154d87.jpg"  height="350"> 
+</p>
