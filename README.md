@@ -137,7 +137,7 @@ We provide some useful scripts:
 
 We use the GitHub README.md template from [Stereo SR competition](https://github.com/The-Learning-And-Vision-Atelier-LAVA/Stereo-Image-SR/tree/NTIRE2022)
 
-## 📧 WeChat Group
+## 🧑‍🤝‍🧑 WeChat Group
 
 - **微信群**: NTIRE23-360超分比赛交流群 
 
