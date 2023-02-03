@@ -5,7 +5,7 @@
   <img src="imgs/logo.png" height=180>
 </p>
 
-360° Super-Resolution Challenge is held as a part of the **[NTIRE workshop](https://cvlai.net/ntire/2023/)** in conjunction with **[CVPR 2023](https://cvpr.thecvf.com/).
+360° Super-Resolution Challenge is held as a part of the **[NTIRE workshop](https://cvlai.net/ntire/2023/)** in conjunction with **[CVPR 2023](https://cvpr.thecvf.com/)**.
 
 <div align="center">
 
