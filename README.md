@@ -15,13 +15,14 @@
 
 ---
 
-👉 [Track 1：360° Omnidirectional Image Super-Resolution (X4)](#track-1360-omnidirectional-image-super-resolution-x4)
+👉 [Track 1：360° Omnidirectional Image Super-Resolution (X4)](#track-1360-omnidirectional-image-super-resolution-x4) **|** [Codalab server](https://codalab.lisn.upsaclay.fr/competitions/10319)
 
-👉 [Track 2：360° Omnidirectional Video Super-Resolution (X4)](#track-2360-omnidirectional-video-super-resolution-x4)
+👉 [Track 2：360° Omnidirectional Video Super-Resolution (X4)](#track-2360-omnidirectional-video-super-resolution-x4) **|** [Codalab server](https://codalab.lisn.upsaclay.fr/competitions/10371)
 
 
 ## 🚩 News and Updates
 
+- ✅ 2023-02-05. Codalab server is online: [Codalab server - image](https://codalab.lisn.upsaclay.fr/competitions/10319), [Codalab server - video](https://codalab.lisn.upsaclay.fr/competitions/10371)
 - ✅ 2023-01-18. Training and validation sets are released.
 
 ## Introduction
@@ -115,7 +116,14 @@ We use CodaLab for online submission in the development phase. Here, we provide 
 
 ## Important Dates
 
-TBD
+- 2023.01.30 Release of train data (input and output) and validation data (inputs only)
+- 2023.01.30 Validation server online
+- 2023.03.7 Final test data release (inputs only)
+- 2023.03.14 Test output results submission deadline
+- 2023.03.15 Fact sheets and code/executable submission deadline
+- 2023.03.17 Preliminary test results release to the participants
+- 2023.03.28 Paper submission deadline for entries from the challenge
+- 2023.06.18 NTIRE workshop and challenges, results and award ceremony (CVPR 2023, Vancouver)
 
 ## Scripts
 
@@ -132,6 +140,13 @@ We provide some useful scripts:
 2.  We do not restrict competitors from using pretrained networks. If it is used, it is necessary to provide details.
 
 3.  We do not restrict the model size and running time. Please provide them in the final submission.
+
+
+### Organizers
+
+Mingdeng Cao, Chong Mou, Fanghua Yu,
+Xintao Wang, Yinqiang Zheng, Jian Zhang,
+Chao Dong, Gen Li, Ying Shan, Radu Timofte
 
 #### Acknowledgement
 
