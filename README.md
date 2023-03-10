@@ -157,5 +157,5 @@ We use the GitHub README.md template from [Stereo SR competition](https://github
 - **微信群**: NTIRE23-360超分比赛交流群 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/122718254/216253871-af36638f-f222-45e6-94eb-b3271d154d87.jpg"  height="350"> 
+  <img src="https://user-images.githubusercontent.com/54032224/224233090-c9bca247-4c02-437f-a865-fa2f2f20957a.jpg"  height="350"> 
 </p>
