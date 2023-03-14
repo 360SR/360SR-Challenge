@@ -20,6 +20,14 @@
 👉 [Track 2：360° Omnidirectional Video Super-Resolution (X4)](#track-2360-omnidirectional-video-super-resolution-x4) **|** [Codalab server](https://codalab.lisn.upsaclay.fr/competitions/10371)
 
 
+## TODO
+
+- [ ] Testing server is online
+- [ ] Update and provide a factsheet template
+- [ ] Prepare guidelines/protocol for the final submission
+- [ ] Sent all the above informatin to the participants
+
+
 ## 🚩 News and Updates
 
 - ✅ 2023-03-15. Testing datasets have been released. Please check [Flicke360_test_LR.zip](https://github.com/360SR/360SR-Challenge#download) for the image track, and [test_x4.zip](https://github.com/360SR/360SR-Challenge#-download) for the video track. You can download the corresponding testing datsets in the google drive or 腾讯微云
