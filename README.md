@@ -119,11 +119,11 @@ We use CodaLab for online submission in the development phase. Here, we provide 
 
 - 2023.01.30 Release of train data (input and output) and validation data (inputs only)
 - 2023.01.30 Validation server online
-- 2023.03.7 Final test data release (inputs only)
-- 2023.03.14 Test output results submission deadline
-- 2023.03.15 Fact sheets and code/executable submission deadline
-- 2023.03.17 Preliminary test results release to the participants
-- 2023.03.28 Paper submission deadline for entries from the challenge
+- 2023.03.14 Final test data release (inputs only)
+- 2023.03.20 Test output results submission deadline
+- 2023.03.20 Fact sheets and code/executable submission deadline
+- 2023.03.22 Preliminary test results release to the participants
+- 2023.03.31 Paper submission deadline for entries from the challenge
 - 2023.06.18 NTIRE workshop and challenges, results and award ceremony (CVPR 2023, Vancouver)
 
 ## Scripts
