@@ -22,14 +22,14 @@
 
 ## TODO
 
-- [ ] Testing server is online
 - [ ] Update and provide a factsheet template
 - [ ] Prepare guidelines/protocol for the final submission
-- [ ] Sent all the above informatin to the participants
+- [ ] Send all the above informatin to the participants
 
 
 ## 🚩 News and Updates
 
+- ✅ 2023-03-15. Testing server is online. Please check the codalab.
 - ✅ 2023-03-14. Testing datasets have been released. Please check [Flickr360_test_LR.zip](https://github.com/360SR/360SR-Challenge#download) for the image track, and [test_x4.zip](https://github.com/360SR/360SR-Challenge#-download) for the video track. You can download the corresponding testing datsets in the google drive or 腾讯微云
 - ✅ 2023-02-05. Codalab server is online: [Codalab server - image](https://codalab.lisn.upsaclay.fr/competitions/10319), [Codalab server - video](https://codalab.lisn.upsaclay.fr/competitions/10371)
 - ✅ 2023-01-18. Training and validation sets are released.
