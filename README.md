@@ -20,15 +20,9 @@
 👉 [Track 2：360° Omnidirectional Video Super-Resolution (X4)](#track-2360-omnidirectional-video-super-resolution-x4) **|** [Codalab server](https://codalab.lisn.upsaclay.fr/competitions/10371)
 
 
-## TODO
-
-- [ ] Update and provide a factsheet template
-- [ ] Prepare guidelines/protocol for the final submission
-- [ ] Send all the above informatin to the participants
-
-
 ## 🚩 News and Updates
 
+- ✅ 2023-03-15. Add **factsheet template**. You can also find **guidelines for the final submission** inside the factsheet template. You can download [here](https://github.com/360SR/360SR-Challenge/raw/main/CVPR-NTIRE%202023%20360%C2%B0%20Omnidirectional%20Super-Resolution%20Challenge%20Factsheet.zip)
 - ✅ 2023-03-15. Testing server is online. Please check the codalab.
 - ✅ 2023-03-14. Testing datasets have been released. Please check [Flickr360_test_LR.zip](https://github.com/360SR/360SR-Challenge#download) for the image track, and [test_x4.zip](https://github.com/360SR/360SR-Challenge#-download) for the video track. You can download the corresponding testing datsets in the google drive or 腾讯微云
 - ✅ 2023-02-05. Codalab server is online: [Codalab server - image](https://codalab.lisn.upsaclay.fr/competitions/10319), [Codalab server - video](https://codalab.lisn.upsaclay.fr/competitions/10371)
