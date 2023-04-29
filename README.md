@@ -1,7 +1,7 @@
 # NTIRE 2023: 360° Super-Resolution Challenge
 
 <!-- <img title="" src="/imgs/mark.png" alt="" data-align="center"> -->
-<div style="align-items:center;text-align:center">
+<div align="center">
   <img src="imgs/logo.png" height=128>
   <p>&#10006</p>
   <img src="imgs/intellindust.png" height=120>
