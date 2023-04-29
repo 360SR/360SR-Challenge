@@ -1,11 +1,13 @@
 # NTIRE 2023: 360° Super-Resolution Challenge
 
 <!-- <img title="" src="/imgs/mark.png" alt="" data-align="center"> -->
-<p align="center">
-  <img src="imgs/logo.png" height=180>
-</p>
+<div style="align-items:center;text-align:center">
+  <img src="imgs/logo.png" height=128>
+  <p>&#10006</p>
+  <img src="imgs/intellindust.png" height=120>
+</div>
 
-360° Super-Resolution Challenge is held as a part of the **[NTIRE workshop](https://cvlai.net/ntire/2023/)** in conjunction with **[CVPR 2023](https://cvpr.thecvf.com/)**.
+360° Super-Resolution Challenge is held as a part of the **[NTIRE workshop](https://cvlai.net/ntire/2023/)** in conjunction with **[CVPR 2023](https://cvpr.thecvf.com/)**, sponsored by **[Intellindust](http://www.intellindust.net)**.
 
 <div align="center">
 
@@ -24,6 +26,7 @@
 
 
 ## 🚩 News and Updates
+- ✅ 2023-04-15. 360° Super-Resolution Challenge receieved sponsorship! We sincerely appreciate the generous donations contributed by [Intellindust Information Technology Co., Ltd](http://www.intellindust.net/).
 - ✅ 2023-03-15. Add **submission example for 360 video SR**. You can download the [submission example](https://github.com/360SR/360SR-Challenge/releases/download/Example/baseline.zip).
 - ✅ 2023-03-15. Add **factsheet template**. You can also find **guidelines for the final submission** inside the factsheet template. You can download [factsheet template and guidelines for the final submission](https://github.com/360SR/360SR-Challenge/raw/main/CVPR-NTIRE%202023%20360%C2%B0%20Omnidirectional%20Super-Resolution%20Challenge%20Factsheet.zip)
 - ✅ 2023-03-15. Testing server is online. Please check the codalab.
